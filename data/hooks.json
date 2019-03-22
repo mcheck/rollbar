@@ -1,0 +1,6 @@
+{
+    "dispatcher_standard": {
+        "type": "C",
+        "class": "\\IPS\\Dispatcher\\Standard"
+    }
+}
