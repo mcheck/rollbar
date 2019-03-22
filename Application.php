@@ -16,5 +16,11 @@ namespace IPS\rollbar;
  */
 class _Application extends \IPS\Application
 {
-	
+	PUBLIC CONST GITHUB_REPO = "https://github.com/DanielFatkic/rollbar";
+
+
+	protected function get__icon()
+	{
+		return "exclamation-triangle";
+	}
 }
