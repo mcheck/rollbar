@@ -1,11 +1,11 @@
 ## ROLLBAR
 
-Connect your IPS 4 installation with [rollbar](1).
+Connect your IPS 4 installation with [rollbar][1].
 
 
 ### Installation
 
-Follow the official [IPS4 install instructions](2).
+Follow the official [IPS4 install instructions][2].
 
 ### Changehistory
 
