@@ -2,5 +2,9 @@
     "dispatcher_standard": {
         "type": "C",
         "class": "\\IPS\\Dispatcher\\Standard"
+    },
+    "output": {
+        "type": "C",
+        "class": "\\IPS\\Output"
     }
 }
