@@ -1,5 +1,6 @@
 <?php
 
 $lang = array(
-	'__app_rollbar'	=> "[DF] Rollbar"
+	'__app_rollbar'	=> "[DF] Rollbar",
+	'rollbar' => "Rollbar"
 );
