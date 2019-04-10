@@ -19,6 +19,5 @@ Follow the official [IPS4 install instructions][2].
 
 
 
-
 [1]: http://www.rollbar.com
 [2]: https://invisioncommunity.com/4guides/how-to-use-ips-community-suite/managing-your-community/adding-3rd-party-content-r245/
