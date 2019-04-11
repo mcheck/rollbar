@@ -12,6 +12,7 @@ Follow the official [IPS4 install instructions][2].
 
 #### Development ( TBA )
 * Added a new constant `LOG_IPS_ERRORS` to enable also `\IPS\Output::error` error logging
+* Added Privacy Policy Information
 
 
 #### 1.0.0 - 2019-03-22
